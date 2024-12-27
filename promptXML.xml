@@ -1,0 +1,39 @@
+<Prompt>
+  <Description>
+    [Görevi tanımlayan özlü bir talimat, örneğin "Girişi standart bir istek formatına dönüştürün."]
+  </Description>
+  <Details>
+    <Rules>
+      <Rule>
+        [İstek oluşturma için belirli bir kural veya kılavuz, örn: "En fazla 10 kelimeden oluşan bir konu satırı ekleyin."]
+      </Rule>
+      <Rule>
+        [Başka bir kural veya kılavuz, örn: "Tüm isteklerde tarafsız bir ton kullanın."]
+      </Rule>
+    </Rules>
+    <OutputFormat>
+      [Formatı tanımlayın, örn: "Çıktı JSON formatında olmalıdır."]
+    </OutputFormat>
+    <AdvancedTechniques>
+      [Teknikler, örn: "Ton ayarlaması için duygu analizinden yararlanın."]
+    </AdvancedTechniques>
+    <ErrorHandling>
+      <Strategy>
+        [Hataları ele alma yaklaşımı, örn: "Girdi belirsizse, netleştirme isteyin."]
+      </Strategy>
+    </ErrorHandling>
+  </Details>
+  <Examples>
+    <Example>
+      <Input>
+        [Girdi metni örneği]
+      </Input>
+      <Output>
+        [Karmaşık unsurlar için yer tutucular içeren beklenen standart istek çıkışı]
+      </Output>
+    </Example>
+  </Examples>
+  <Notes>
+    [İstemle ilgili ek hususlar, örneğin "Farklı kullanıcı lehçeleriyle uyumluluğu sağlayın."]
+  </Notes>
+</Prompt>
