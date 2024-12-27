@@ -12,7 +12,7 @@
       </Rule>
     </Rules>
     <OutputFormat>
-      [Formatı tanımlayın, örn: "Çıktı JSON formatında olmalıdır."]
+      [Formatı tanımlayın, örn: "Çıktı XML formatında olmalıdır."]
     </OutputFormat>
     <AdvancedTechniques>
       [Teknikler, örn: "Ton ayarlaması için duygu analizinden yararlanın."]
